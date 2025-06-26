@@ -1,7 +1,7 @@
 const tokens = [
   {
-    token: "TOKEN1",
-    channelIds: ["CHANNEL1"], // MULTIPLE CHANNEL IDS CAN BE ADDED (OPTIONAL)
+    token: "",
+    channelIds: [""], // MULTIPLE CHANNEL IDS CAN BE ADDED (OPTIONAL)
   },
   {
     token: "TOKEN2",
